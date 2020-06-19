@@ -26,8 +26,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097d30cc-c8b0-4aef-88b7-76446a52e052" name="Default Changelist" comment="test" />
+    <list default="true" id="097d30cc-c8b0-4aef-88b7-76446a52e052" name="Default Changelist" comment="test1" />
+    <list id="361d359e-b1af-417d-8916-90202b45f4d0" name="Initial commit" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <list id="ecdb59da-e5fa-4753-8389-88f2ffe0bf65" name="test" comment="" />
+    <list id="ce5d3fdd-5040-447a-932b-4761d818618a" name="test1" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -84,6 +89,8 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="097d30cc-c8b0-4aef-88b7-76446a52e052" name="Default Changelist" comment="" />
       <changelist id="ecdb59da-e5fa-4753-8389-88f2ffe0bf65" name="test" comment="" />
+      <changelist id="ce5d3fdd-5040-447a-932b-4761d818618a" name="test1" comment="" />
+      <changelist id="361d359e-b1af-417d-8916-90202b45f4d0" name="Initial commit" comment="" />
       <created>1592562735937</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -94,7 +101,7 @@
       <workItem from="1592563027256" duration="427000" />
       <workItem from="1592563460393" duration="134000" />
       <workItem from="1592563600995" duration="167000" />
-      <workItem from="1592563783155" duration="7000" />
+      <workItem from="1592563783155" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1592563257013</created>
@@ -124,7 +131,28 @@
       <option name="project" value="LOCAL" />
       <updated>1592563533943</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1592563880733</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592563880733</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test1">
+      <created>1592563918315</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592563918315</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test1">
+      <created>1592564029711</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592564029711</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +198,8 @@
     </ignored-roots>
     <MESSAGE value="test" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="814" y="402" key="#Notifications" timestamp="1592563745705">
@@ -185,14 +214,14 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="635" y="131" key="#tictactoe/0.0.1858.1080@0.0.1858.1080" timestamp="1592563201145" />
-    <state x="803" y="437" key="Github.ShareDialog" timestamp="1592563732434">
+    <state x="803" y="437" key="Github.ShareDialog" timestamp="1592563839281">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="803" y="437" key="Github.ShareDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1592563732434" />
-    <state x="674" y="243" key="Github.UntrackedFilesDialog" timestamp="1592563091721">
+    <state x="803" y="437" key="Github.ShareDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1592563839281" />
+    <state x="674" y="243" key="Github.UntrackedFilesDialog" timestamp="1592563850541">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="674" y="243" key="Github.UntrackedFilesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1592563091721" />
+    <state x="674" y="243" key="Github.UntrackedFilesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1592563850541" />
     <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1592563454325">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -209,18 +238,38 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1592563454325" />
+    <state x="178" y="90" key="MergeDialog" timestamp="1592563954896">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="178" y="90" key="MergeDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1592563954896" />
+    <state x="567" y="300" key="MultipleFileMergeDialog" timestamp="1592563961200">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="567" y="300" key="MultipleFileMergeDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1592563961200" />
+    <state x="807" y="260" key="RollbackChangesDialog" timestamp="1592564086501">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="807" y="260" key="RollbackChangesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1592564086501" />
     <state x="430" y="184" key="SettingsEditor" timestamp="1592563789567">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="430" y="184" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1592563789567" />
-    <state x="776" y="453" key="VCS.ChangelistChooser" timestamp="1592563488668">
+    <state x="776" y="453" key="VCS.ChangelistChooser" timestamp="1592563989004">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="776" y="453" key="VCS.ChangelistChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1592563488668" />
-    <state x="734" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592563558046">
+    <state x="776" y="453" key="VCS.ChangelistChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1592563989004" />
+    <state x="521" y="273" key="Vcs.Push.Dialog.v2" timestamp="1592564038981">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="734" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1858.1080@0.0.1858.1080" timestamp="1592563558046" />
+    <state x="521" y="273" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1592564038981" />
+    <state x="734" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592564102591">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="734" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1858.1080@0.0.1858.1080" timestamp="1592564102591" />
+    <state x="632" y="327" key="git4idea.merge.GitPullDialog" timestamp="1592564098002">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="632" y="327" key="git4idea.merge.GitPullDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1592564098002" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Tic_Tac_Toe$tictactoe.coverage" NAME="tictactoe Coverage Results" MODIFIED="1592563202749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stage #5" />
